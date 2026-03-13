@@ -28,7 +28,7 @@ This project demonstrates an end-to-end Quantitative Finance pipeline. It combin
 
 ### 2. Efficient Frontier Chart
 
-![Efficient Frontier](Efficient-frontier-VN30-selection.png)
+![Efficient Frontier](efficient-frontier.png)
 
 ---
 
@@ -47,5 +47,6 @@ This project demonstrates an end-to-end Quantitative Finance pipeline. It combin
 ---
 
 **Author:** Chi Nguyen | Master of Financial Management (University of Melbourne)
+
 
 
