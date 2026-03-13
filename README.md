@@ -26,13 +26,9 @@ This project demonstrates an end-to-end Quantitative Finance pipeline. It combin
 ![Volatility Chart](Volatility-analysis-HPG.VN.png)
 
 
-*(Note: Replace this with your volatility_report.png)*
-
 ### 2. Efficient Frontier Chart
 
 ![Efficient Frontier](Efficient-frontier-VN30-selection.png)
-
-*(Note: Replace this with your efficient_frontier.png)*
 
 ---
 
@@ -51,4 +47,5 @@ This project demonstrates an end-to-end Quantitative Finance pipeline. It combin
 ---
 
 **Author:** Chi Nguyen | Master of Financial Management (University of Melbourne)
+
 
