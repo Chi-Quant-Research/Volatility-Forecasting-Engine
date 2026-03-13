@@ -51,3 +51,4 @@ This project demonstrates an end-to-end Quantitative Finance pipeline. It combin
 ---
 
 **Author:** Chi Nguyen | Master of Financial Management (University of Melbourne)
+
