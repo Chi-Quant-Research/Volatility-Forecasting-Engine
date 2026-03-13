@@ -23,9 +23,14 @@ This project demonstrates an end-to-end Quantitative Finance pipeline. It combin
 ## 🖼️ Outputs
 ### 1. Conditional Volatility (GARCH)
 
+![Volatility Chart](Volatility-analysis-HPG.VN.png)
+
+
 *(Note: Replace this with your volatility_report.png)*
 
 ### 2. Efficient Frontier Chart
+
+![Efficient Frontier](Efficient-frontier-VN30-selection.png)
 
 *(Note: Replace this with your efficient_frontier.png)*
 
@@ -44,4 +49,5 @@ This project demonstrates an end-to-end Quantitative Finance pipeline. It combin
 3. **Risk-Adjusted Return:** Focus is not just on profit, but on maximizing return per unit of risk (Sharpe Ratio).
 
 ---
+
 **Author:** Chi Nguyen | Master of Financial Management (University of Melbourne)
